@@ -38,6 +38,7 @@
 
 <div align=center>
  <img src="https://stats.quine.sh/GhostCrafter101/languages-over-time?theme=dark">
+ <h3>Random Developer Joke</h3>
  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 <br>
