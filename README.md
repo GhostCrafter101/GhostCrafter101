@@ -24,7 +24,7 @@
 - 4GB RAM
 - 512GB NVMe SSD
 
-<h2 align=center> ⚙️ &nbsp;GitHub Analytics </h2>
+## ⚙️ &nbsp;GitHub Analytics 
 <p align="center">
 <a href="https://github.com/GhostCrafter101">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GhostCrafter101&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
