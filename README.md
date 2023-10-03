@@ -33,12 +33,13 @@
 </p>
 <br>
 
-[![GhostCrafter101's GitHub | Languages Over Time](https://stats.quine.sh/GhostCrafter101/languages-over-time?theme=dark)](quine.sh)
-
+<div align=center>
+ <img src="https://stats.quine.sh/GhostCrafter101/languages-over-time?theme=dark">
+ <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 <br>
 <p align=center>
  <img src="https://komarev.com/ghpvc/?username=GhostCrafter101&style=flat-square"/>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGhostCrafter101&longCache=true"/>
 </p>
 
