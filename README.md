@@ -9,7 +9,7 @@
 - ✔️ Looking forward to achieve something :)
 <br>
 <div align=center><img src="https://lanyard.kyrie25.me/api/494093558689562624?waveColor=8B8BFA&waveSpotifyColor=0094f0&gradient=0094f0-054bfc-4305fc&imgStyle=square"></div>
-<h2 align=center>My Skills</h2>
+<h2 align=center>🛠 My Skills</h2>
 <p align="center">
  <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-9500ff?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/> 
  <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
