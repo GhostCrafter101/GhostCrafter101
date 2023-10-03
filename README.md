@@ -24,7 +24,7 @@
 - 4GB RAM
 - 512GB NVMe SSD
 
-## ⚙️ &nbsp;GitHub Analytics 
+### ⚙️ &nbsp;GitHub Analytics 
 <p align="center">
 <a href="https://github.com/GhostCrafter101">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GhostCrafter101&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -36,7 +36,7 @@
 [![GhostCrafter101's GitHub | Languages Over Time](https://stats.quine.sh/GhostCrafter101/languages-over-time?theme=dark)](quine.sh)
 
 <br>
-<p >
+<p align=center>
  <img src="https://komarev.com/ghpvc/?username=GhostCrafter101&style=flat-square"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGhostCrafter101&longCache=true"/>
 </p>
