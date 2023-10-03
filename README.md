@@ -10,11 +10,14 @@
 <br>
 <div align=center><img src="https://lanyard.kyrie25.me/api/494093558689562624?waveColor=8B8BFA&waveSpotifyColor=0094f0&gradient=0094f0-054bfc-4305fc&imgStyle=square"></div>
 <h2 align=center>My Skills</h2>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></p>
-
-
-
+<p align="center">
+ <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-9500ff?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 
 <h2 align=center>💻 Current Work Machine </h2>
 
@@ -42,6 +45,7 @@
  <img src="https://komarev.com/ghpvc/?username=GhostCrafter101&style=flat-square"/>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGhostCrafter101&longCache=true"/>
 </p>
+<h2 align="center">Thanks for Reading!</h2>
 
 <!-- ### ⚙️ &nbsp;Holopin Board
 <img align="left" alt="Twitter " width="22px" src="https://github.com/GhostCrafter101/GhostCrafter101/assets/73681993/e9dbf930-9f02-4f00-95ea-7a9e5054672f" />
