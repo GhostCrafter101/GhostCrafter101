@@ -5,7 +5,7 @@
 - 🌱 I’m currently a student
 - 👀 Languages/Tools I know are HTML, CSS, JS and Python (still learning)
 - 💞️ I’m an avid learner and I've keen interest in Web Development and Machine Learning.
-- 👀 I’m interested in learning new technologies.
+- 👀 I’m interested in learning new technologies!
 - ✔️ Looking forward to achieve something :)
 <br>
 <div align=center><img src="https://lanyard.kyrie25.me/api/494093558689562624?waveColor=8B8BFA&waveSpotifyColor=0094f0&gradient=0094f0-054bfc-4305fc&imgStyle=square"></div>
