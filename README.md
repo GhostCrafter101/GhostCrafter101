@@ -8,7 +8,7 @@
 - 👀 I’m interested in learning new technologies!
 - ✔️ Looking forward to achieve something :)
 <br>
-<div align=center><img src="https://lanyard.kyrie25.me/api/494093558689562624?waveColor=8B8BFA&waveSpotifyColor=0094f0&gradient=0094f0-054bfc-4305fc&idleMessage=Probably%20Sleeping"></div>
+<div align=center><img src="https://lanyard.kyrie25.dev/api/494093558689562624?waveColor=8B8BFA&waveSpotifyColor=0094f0&gradient=0094f0-054bfc-4305fc&idleMessage=Probably%20Sleeping"></div>
 <h2 align=center>💼 My Skills</h2>
 <p align="center">
  <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-9500ff?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/> 
@@ -37,7 +37,6 @@
 <br>
 
 <div align=center>
- <img src="https://stats.quine.sh/GhostCrafter101/languages-over-time?theme=dark">
  <h3>Random Developer Joke</h3>
  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
