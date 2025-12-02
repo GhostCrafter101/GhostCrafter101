@@ -21,10 +21,10 @@
 
 <h2 align=center>💻 Current Work Machine </h2>
 
-#### HP 15 G002AX
-- AMD A8-6410 APU   
-- Radeon R5 Graphics
-- 4GB RAM
+#### Lenovo LOQ 15IRX9
+- Intel Core i5-13450HX 
+- RTX 3050 6GB
+- 32 GB (2x16) DDR5 RAM
 - 512GB NVMe SSD
 
 <h2 align=center> ⚙️ &nbsp;GitHub Analytics </h2>
